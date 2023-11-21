@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rachelmgaldino&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rachelmgaldino&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" width="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rachelmgaldino&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoM2QzMmhlZHE3aDN3aXVhZTU2bHNjdm1oMjFtbXhpaWJ0ZDZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+<img align="right" height="150" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoM2QzMmhlZHE3aDN3aXVhZTU2bHNjdm1oMjFtbXhpaWJ0ZDZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
 ###
 
