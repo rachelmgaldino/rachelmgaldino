@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! My name is Rachel</h2>
 <p>I'm a front end developer on my way to become full stack! I'm currently based in Fortaleza-Ce</p>
+<p>Reach me through:</p>
+
+[![Badge](https://xbon8jaq0c85.runkit.sh)](https://git.io/gradientbadge)
 
 <!-- <div align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=rachelmgaldino&data=followers,repositories,stars,commits&theme=darkmode" />
