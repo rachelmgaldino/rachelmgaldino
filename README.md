@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Rachel 👋</h1>
-<p>I'm a front end developer on my way to become full stack! Currently based in Fortaleza, Brazil.</p>
+<p>I'm a front end developer on my way to become full stack! Currently based in Fortaleza, Brazil 🇧🇷.</p>
 
 <img align="right" height="150" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoM2QzMmhlZHE3aDN3aXVhZTU2bHNjdm1oMjFtbXhpaWJ0ZDZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
