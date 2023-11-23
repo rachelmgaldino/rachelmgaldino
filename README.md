@@ -1,6 +1,5 @@
-<h1>Web Developer</h1>
-<h2 align="left">Hey there! I'm Rachel 👋</h2>
-<p>I'm a front end developer on my way to become full stack! I'm currently based in Fortaleza-Ce</p>
+<h1 align="center">Hey there! I'm Rachel 👋</h1>
+<p>I'm a front end developer on my way to become full stack! Currently based in Fortaleza, Brazil.</p>
 
 <img align="right" height="150" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoM2QzMmhlZHE3aDN3aXVhZTU2bHNjdm1oMjFtbXhpaWJ0ZDZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
@@ -39,6 +38,7 @@
 <h2>📫 Reach me on:</h2>
 
 [![Badge](https://jfw6cc05e9b5.runkit.sh)](https://git.io/gradientbadge)
+
 
   <a href="https://www.instagram.com/rachel.galdino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
