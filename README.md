@@ -50,9 +50,9 @@
   <!-- <a href="https://www.instagram.com/rachel.galdino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a> -->
-  <a href="rachel.galdino@gmail.com" target="_blank">
+  <a href="mailto:rachel.galdino@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
-  </a>
+</a>
   <a href="https://www.linkedin.com/in/rachel-galdino/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
