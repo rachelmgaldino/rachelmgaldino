@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
@@ -63,7 +63,7 @@
 <h2></h2>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachelmgaldino&theme=material_palenight" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rachelmgaldino&theme=material-palenight&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-1ud2y6kt8-rachelmgaldinos-projects.vercel.app?user=rachelmgaldino&theme=material-palenight&hide_border=true&exclude_days=Sun%2CSat&card_height=150" alt="GitHub Streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachelmgaldino/rachelmgaldino/output/github-contribution-grid-snake-dark.svg">
