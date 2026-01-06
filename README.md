@@ -40,7 +40,7 @@
 
 <!-- [![Badge](https://0c9cz7p3zpz0.runkit.sh)](https://git.io/gradientbadge) [![Badge](https://svegymxr5z1a.runkit.sh)](https://git.io/gradientbadge) -->
 
-- Português - Fluente
+- Português - Native
 - English - Proficient
 
 <h2>📫 Reach me on:</h2>
