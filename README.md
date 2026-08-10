@@ -1,79 +1,87 @@
 <h1 align="center">Hey there! I'm Rachel 👋</h1>
-<p>I'm a front end developer, currently based in Fortaleza, Brazil 🇧🇷.</p>
 
-<img align="right" height="150" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoM2QzMmhlZHE3aDN3aXVhZTU2bHNjdm1oMjFtbXhpaWJ0ZDZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+<p>Front-end developer based in Fortaleza, Brazil 🇧🇷. I build web apps with React, and tools that fix things I actually use.</p>
+
+<p><strong>Open to junior front-end / full-stack roles — remote or Fortaleza.</strong></p>
+
+<img align="right" height="150" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoM2QzMmhlZHE3aDN3aXVhZTU2bHNjdm1oMjFtbXhpaWJ0ZDZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 
 ###
 
-<h4>💻 What I'm Studying:</h4>
+<h4>🔧 What I've built</h4>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%)
-![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%)
+**[anilistsync.koplugin](https://github.com/rachelmgaldino/anilistsync.koplugin)** — a plugin for the KOReader e-reader that syncs manga reading progress to AniList automatically as chapters are finished. OAuth 2.0 authorization over a QR handoff (the device has no usable browser or keyboard), a GraphQL client for AniList's API, and non-blocking subprocess HTTP so a slow request can never freeze the reader. Hooks into a third-party plugin's internals without forking it.
+
+**[koreader-patches](https://github.com/rachelmgaldino/koreader-patches)** — 15 runtime Lua patches for KOReader and its third-party plugins: crash fixes, UI additions, and sync integrations, applied by monkeypatching at startup rather than editing anyone's source. Includes a fix for a crash that took the whole app down on any network hiccup during a background job.
+
+**[iconbrowser.koplugin](https://github.com/rachelmgaldino/iconbrowser.koplugin)** — a searchable, paginated icon-name browser with persisted favorites, extracted out of another plugin's internal picker into a standalone tool.
+
+More in my pinned repos below.
+
+###
 
 <div align="left">
-  <h4>⚡ Tech Stacks:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+<h4>⚡ Tech I work with:</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="40" alt="tailwindcss logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
+
+###
+
+<h4>📚 Currently going deeper on</h4>
+
+TypeScript · testing · deployment and CI/CD
 
 ###
 
 <h4>🌎 Languages</h4>
 
-<!-- [![Badge](https://0c9cz7p3zpz0.runkit.sh)](https://git.io/gradientbadge) [![Badge](https://svegymxr5z1a.runkit.sh)](https://git.io/gradientbadge) -->
+- Português — Native
+- English — Advanced
+- Libras — Basic
 
-- Português - Native
-- English - Proficient
+###
 
 <h2>📫 Reach me on:</h2>
 
-<!-- [![Badge](https://jfw6cc05e9b5.runkit.sh)](https://git.io/gradientbadge) -->
-
-
-  <!-- <a href="https://www.instagram.com/rachel.galdino" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a> -->
-  <a href="mailto:rachel.galdino@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
+<a href="mailto:rachel.galdino@proton.me" target="_blank">
+<img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" height="25" alt="email" />
 </a>
-  <a href="https://www.linkedin.com/in/rachel-galdino/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/rachel-galdino/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
 
 <div align="center">
 <h2></h2>
 
- <!--  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachelmgaldino&theme=material_palenight" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats-1ud2y6kt8-rachelmgaldinos-projects.vercel.app?user=rachelmgaldino&theme=material-palenight&hide_border=true&exclude_days=Sun%2CSat&card_height=150" alt="GitHub Streak" /> -->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachelmgaldino/rachelmgaldino/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachelmgaldino/rachelmgaldino/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rachelmgaldino/rachelmgaldino/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachelmgaldino/rachelmgaldino/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachelmgaldino/rachelmgaldino/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rachelmgaldino/rachelmgaldino/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </div>
 
 ###
