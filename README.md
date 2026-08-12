@@ -10,7 +10,7 @@
 
 <h4>🔧 What I've built</h4>
 
-**[anilistsync.koplugin](https://github.com/rachelmgaldino/anilistsync.koplugin)** — a plugin for the KOReader e-reader that syncs manga reading progress to AniList automatically as chapters are finished. OAuth 2.0 authorization over a QR handoff (the device has no usable browser or keyboard), a GraphQL client for AniList's API, and non-blocking subprocess HTTP so a slow request can never freeze the reader. Hooks into a third-party plugin's internals without forking it.
+**[anilistsync.koplugin](https://github.com/rachelmgaldino/anilistsync.koplugin)** — a plugin for the KOReader e-reader that syncs manga reading progress to AniList automatically as chapters are finished. OAuth 2.0 authorization over a QR handoff, since the reader app has no browser and the flow has to complete on a phone, a GraphQL client for AniList's API, and non-blocking subprocess HTTP so a slow request can never freeze the reader. Hooks into a third-party plugin's internals without forking it.
 
 **[koreader-patches](https://github.com/rachelmgaldino/koreader-patches)** — 15 runtime Lua patches for KOReader and its third-party plugins: crash fixes, UI additions, and sync integrations, applied by monkeypatching at startup rather than editing anyone's source. Includes a fix for a crash that took the whole app down on any network hiccup during a background job.
 
