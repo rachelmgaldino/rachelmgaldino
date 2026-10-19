@@ -2,7 +2,7 @@
 
 <img align="right" height="150" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoM2QzMmhlZHE3aDN3aXVhZTU2bHNjdm1oMjFtbXhpaWJ0ZDZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 
-<p>Front-end developer based in Fortaleza, Brazil 🇧🇷. I build web apps with React, and tools that fix things I actually use.</p>
+<p>Full-stack developer based in Fortaleza, Brazil 🇧🇷. I build web apps with React, and tools that fix things I actually use.</p>
 
 <p><strong>Open to junior front-end / full-stack roles — remote or Fortaleza.</strong></p>
 
