@@ -4,7 +4,7 @@
 
 <p>Full-stack developer based in Fortaleza, Brazil 🇧🇷. I build web apps with React, and tools that fix things I actually use.</p>
 
-<p><strong>Open to junior front-end / full-stack roles — remote or Fortaleza.</strong></p>
+<!-- <p><strong>Open to junior front-end / full-stack roles — remote or Fortaleza.</strong></p> -->
 
 <br clear="right" />
 
